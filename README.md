@@ -1,2 +1,2 @@
 # Laboratoire07_Reference
-Version de base du laboratoire 07 - Bibliotheque
+Version de référence du laboratoire 07 - Bibliotheque
